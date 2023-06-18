@@ -8,3 +8,8 @@ Gelişmiş güvenlik önlemleri sayesinde, verilerinizin güvenliğini en üst d
 Northwind Web Tabanlı İş Yönetimi Arayüzü, kullanıcı dostu bir arayüzle birleştiğinde iş süreçlerinizi kolaylaştırır ve veritabanı işlemlerinizi verimli bir şekilde yönetmenizi sağlar. İşletmenizin büyüklüğüne bakılmaksızın, bu araç size hız, esneklik ve verimlilik sunar.
 
 Veritabanınızı daha etkin bir şekilde yönetmek ve iş süreçlerinizi optimize etmek için Northwind Web Tabanlı İş Yönetimi Arayüzü'ne hemen bugün geçin. Veritabanınızı en iyi şekilde kullanmanın ve işletmenizin başarısını artırmanın keyfini çıkarın!
+
+
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://github.com/H3ZDAR/Northwind_Arayuz_Olusturma/blob/main/video/northwind.mp4)https://github.com/H3ZDAR/Northwind_Arayuz_Olusturma/blob/main/video/northwind.mp4 "Now in Android: 55")    // Video Link
